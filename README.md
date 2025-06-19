@@ -1,5 +1,5 @@
 # BME_main
-These codes were run on a computing cluster using slurm array jobs.
+This repo contains codes for simulation study results for the manuscript "Bayesian Model Evaluation using $p$-values". These codes were run on a computing cluster using slurm array jobs.
 
 The codes are organized as follows:
 1. files start with "nlr" are for the normal linear regression example, "gglm" for the gamma GLM example, and "sm" for the competing risk survival model example
