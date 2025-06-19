@@ -1,6 +1,4 @@
 # BME_main
-Reproducible codes for simulation results in article Bayesian Model Evaluation using p-values.
-
 This repo contains codes for simulation study results for the manuscript "Bayesian Model Evaluation using $p$-values".
 
 These codes were run on a computing cluster using slurm array jobs.
