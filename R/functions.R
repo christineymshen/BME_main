@@ -7,7 +7,7 @@ library(bde)
 library(amen)
 library(matrixStats)
 
-outfolder <- "/work/ys288/BME/"
+outfolder <- ""
 
 ### Survival Model ====
 
